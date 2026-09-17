@@ -7,7 +7,7 @@ OpenRouter feature. AI analysis sends the previewed context to OpenRouter and
 the selected model provider. Always review the context and avoid submitting
 secrets, personal data, or regulated data.
 
-https://data-agent-inspector.streamlit.app/
+
 
 ## Features
 
